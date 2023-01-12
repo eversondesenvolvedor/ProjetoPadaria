@@ -1,0 +1,56 @@
+body {
+    width: 1000px;
+    margin: 10px auto;
+    font-family: verdana;
+    background-color: #f4f0e5;
+}
+.imagem-banner {
+    width: 700px;
+}
+.imagem-logotipo {
+    width: 300px;
+}
+.imagem-produtos {
+    width: 300px;
+}
+a {
+    margin: 0 10px;
+    color: #542f0c;
+}
+.secao {
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+h1 {
+    font-size: 28px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    border-top: 1px solid #de8e37;
+}
+h2 {
+    font-weight: normal;
+    color: #de8e37;
+    margin-top: 10px;
+}
+.secao-destaque {
+    background-color: #de8e37;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #fff;  
+}
+.secao-destaque h3{
+    font-size: 24px;
+}
+.secao-destaque h2{
+    color: #fff;
+}
+.secao-destaque h4{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.secao h1{
+    text-decoration: underline;
+}
+
